@@ -1,0 +1,13 @@
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csprojResolveAssemblyReference.cache
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.pdb
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe
+C:\Users\burak.cite\documents\visual studio 2017\Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csprojAssemblyReference.cache
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe
+C:\Users\Aeonyphiel\source\repos\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.pdb
